@@ -1,2 +1,2 @@
 # first_repo_DS
-This is my repository of my data science course.
+This is my first repository for my data science course.
